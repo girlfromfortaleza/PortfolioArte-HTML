@@ -1,75 +1,130 @@
-<html>
-    
-    <head><title>Ada Roama | Certificado Bolsa Jovem 2ª Edição</title></head>
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Portfólio de Ada Roama da Costa</title>
+        
+        <style> /* Global Styles */ *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+html { font-size: 62.5%; }
+
+body { font-family: 'Roboto', sans-serif; font-size: 1.6rem; line-height: 1.5; background-color: #111; color: #fff; }
 
 
 
 
-    <body>
-
-        <style>
-            body {background-color: #000000;}
-        </style>
-                   <font color="white">
-
-                <br><br>    
 
 
-                <div>
-                    <div style="float: left">
-                   <ul><ul><ul><ul><ul>
-                    <img width="205px" height="200px" align="botoon" border="6px" title="uma imagem bonita" src="ada-roama.png" style="border: #d400ff Solid";>
-                   </ul></ul></ul></ul>
-                    </ul>
-                </div>
-                <div style="float: left"><br>
-                    <h1 style="font-family:TimesNewRoman;">&nbsp;&nbsp;Ada Roama | Bolsa Jovem 2ª Edição</h1>
-                    <a href="https://www.instagram.com/ada.roama/" style="color: #ffffff">&nbsp;&nbsp;Instagram</a><br><br>
-                    <a href="https://www.tiktok.com/@ada.roama" style="color: #ffffff">&nbsp;&nbsp;Tiktok</a><br><br>
-                    <a href="https://github.com/girlfromfortaleza" style="color: #ffffff">&nbsp;&nbsp;GitHub</a>
-                </div>
-                
-                    
-                <br><br><br><br><br><br><br><br><br><br><br><br><br>
-                <br><br>
-                
-                
-                
-                <hr><br>
-                <ul>
-                    <a href="index.html" style="color: #ffffff">Voltar para portfólio</a><br>
-                    <p>Certificados:</p> 
-                        <ul>
-                            <li><a href="certificados-teatro.html" style="color: #ffffff">Teatro</a></li>
-                            <li><a href="certificados-danca.html" style="color: #ffffff">Dança</a></li>
-                            <li><a href="certificados-musica.html" style="color: #ffffff">Música</a></li>
-                            <li><a href="certificados-tec.html" style="color: #ffffff">Tecnologia</a></li>
-                            <li><a href="certificados-bolsajovem.html" style="color: #ffffff">Bolsa Jovem 2ª Edição</a></li>
-                        </ul>
-                 </ul>
-            </ul>
-                <br>
-                <hr>
-                <br>
-                    
-                    <div><center>
-                        <img width="537px" height="387px" align="botoon" title="Ada Roama" src="bolsajovem2edicao-certificado.png">
-                    </center></div>
-                    
-                    <br><hr><br> 
+
             
-                <center><p>Site feito por Ada Roama</p></center>
-
-        </font>
-
+            
+             */ header { display: flex; align-items: center; justify-content: space-between; padding: 1rem; background: linear-gradient(to bottom, rgba(34, 34, 34, 0.8), rgba(34, 34, 34, 0.4)); backdrop-filter: blur(5px); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4); } header img { display: block; max-width: 100%; height: auto; border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4); transition: transform 0.3s ease-in-out; } header img:hover { transform: rotate(360deg); } nav ul { display: flex; gap: 1.5rem; margin: 0; padding: 0; list-style: none; } nav a { color: #fff; text-decoration: none; font-weight: bold; font-size: 1.4rem; transition: color 0.2s ease-in-out, transform 0.3s ease-in-out; border-bottom: 2px solid transparent; padding-bottom: 0.25rem; outline: none; } nav a:hover { transform: translateY(-2px); color: #d400ff; border-bottom: 2px solid #d400ff; } nav a:active { outline: none; }
 
 
 
+/* Main Content Styles */
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+section {
+  padding: 1rem;
+  margin-bottom: 2rem;
+  background-color: #222;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+h1 {
+  font-size: 3rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+  color: #d400ff;
+}
+
+/* Imagens */
+img {
+  border: 6px solid #d400ff;
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+/* Imagens na versão mobile */
+@media (max-width: 767px) {
+  section {
+    max-width: 100%;
+  }
+
+  img {
+    max-width: 100%;
+  }
+}
+
+/* Responsive Styles */
+@media (min-width: 768px) {
+  header {
+    padding: 2rem;
+  }
+
+  h1 {
+    font-size: 5rem;
+    margin-top: 4rem;
+  }
+
+  section {
+    max-width: 800px;
+    margin: 2rem auto;
+  }
+}
+    </style>
+        </head>
+    <body>
+        <header> <nav> <ul> <li><a href="https://www.instagram.com/ada.roama/">Instagram</a></li> <li><a href="https://www.tiktok.com/@ada_roama">Tiktok</a></li> <li><a href="https://github.com/girlfromfortaleza">GitHub</a></li> <li><a href="https://www.youtube.com/channel/UCWzhukROgNl9oRNCpFNYlQQ">YouTube</a></li> <li><a href="https://br.pinterest.com/adaroamamodel/">Pinterest</a></li>  </ul> </nav> 
+        </header>
+        <main> 
+          <section>
+            <h2><center>Certificado da Bolsa Jovem 2ª Edição</center></h2> </section>
+            <section>
+                <li><a href="index.html">Voltar para Portfólio</a></li> </section>
+
+          <section> <h2>Certificados:</h2> <ul> <li><a href="certificados-teatro.html">Teatro</a></li> <li><a href="certificados-danca.html">Dança</a></li> <li><a href="certificados-musica.html">Música</a></li> <li><a href="certificados-tec.html">Tecnologia</a></li> <li><a href="certificados-bolsajovem.html">Bolsa Jovem 2ª Edição</a></li> </ul> </section>
+  
+  <section> <div style="text-align:center;"> <img src="bolsajovem2edicao-certificado.png" alt="Ada Roama" style="margin:auto;"> </div> </section>
 
 
-    </body>
-
-
-
-
+</body>
 </html>
