@@ -17,12 +17,6 @@ Portfólio digital multilinguagem desenvolvido para documentar 10+ anos de traje
 - **Performance em Teatro José de Alencar**
 - **Chatbot artístico para Android** (Pydroid3)
 
-### Tecnologias Utilizadas
-- Design responsivo com media queries
-- Gradientes e efeitos de transparência
-- Navegação fluida entre seções
-- Compatível com GitHub Pages
-
 ## 🧭 Navegação
 ```bash
 # Acessar via GitHub Pages
@@ -39,10 +33,8 @@ https://girlfromfortaleza.github.io/PortfolioArte-HTML/
 
 ## 📜 Certificados
 - Teatro
-- Dança  
-- Música
-- Tecnologia
-- Bolsa Jovem (2ª e 3ª Edição)
+- Dança
+- Bolsa Jovem | Arte e Cultura (2ª e 3ª Edição)
 
 ## 📬 Contato
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/veil.and.brush/)
