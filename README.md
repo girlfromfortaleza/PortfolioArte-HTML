@@ -25,9 +25,6 @@ Portfólio digital multilinguagem desenvolvido para documentar 10+ anos de traje
 
 ## 🧭 Navegação
 ```bash
-# Clonar repositório
-git clone https://github.com/girlfromfortaleza/PortfolioArte-HTML.git
-
 # Acessar via GitHub Pages
 https://girlfromfortaleza.github.io/PortfolioArte-HTML/
 ```
@@ -46,12 +43,6 @@ https://girlfromfortaleza.github.io/PortfolioArte-HTML/
 - Música
 - Tecnologia
 - Bolsa Jovem (2ª e 3ª Edição)
-
-## 🤝 Contribuição
-Contribuições são bem-vindas! Para sugerir melhorias:
-1. Faça um fork do projeto
-2. Crie um branch com sua feature (`git checkout -b feature/improvement`)
-3. Envie um Pull Request
 
 ## 📬 Contato
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/veil.and.brush/)
