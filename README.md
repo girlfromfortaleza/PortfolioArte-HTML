@@ -34,6 +34,7 @@ https://girlfromfortaleza.github.io/PortfolioArte-HTML/
 - Teatro
 - Dança
 - Bolsa Jovem | Arte e Cultura (2ª e 3ª Edição)
+- Outros
 
 ## 📬 Contato
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/veil.and.brush/)
