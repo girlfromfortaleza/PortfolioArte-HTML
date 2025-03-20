@@ -5,7 +5,7 @@
 
 ## 🌟 Sobre o Projeto
 Portfólio digital multilinguagem desenvolvido para documentar 10+ anos de trajetória artística, incluindo:
-- Dois desenhos feitos a mão
+- 5 desenhos feitos a mão
 - Atuação em 15+ espetáculos teatrais
 - Participação em 10+ festivais de cinema
 - Performances em dança contemporânea e vogue
