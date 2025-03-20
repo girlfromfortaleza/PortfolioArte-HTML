@@ -12,7 +12,7 @@ Portfólio digital multilinguagem desenvolvido para documentar 10+ anos de traje
 
 ## 🏆 Destaques
 ### Principais Realizações
-- **Criação de desenhos"** usando ibis Paint X
+- **Criação de desenhos** usando ibis Paint X
 - **Curta-metragem "Primos"** em 7 festivais nacionais
 - **Vencedora do Becha Cearense** (Baby Vogue)
 - **Performance em Teatro José de Alencar**
