@@ -5,12 +5,14 @@
 
 ## 🌟 Sobre o Projeto
 Portfólio digital multilinguagem desenvolvido para documentar 10+ anos de trajetória artística, incluindo:
+- Dois desenhos feitos a mão
 - Atuação em 15+ espetáculos teatrais
 - Participação em 10+ festivais de cinema
 - Performances em dança contemporânea e vogue
 
 ## 🏆 Destaques
 ### Principais Realizações
+- **Criação de desenhos"** usando ibis Paint X
 - **Curta-metragem "Primos"** em 7 festivais nacionais
 - **Vencedora do Becha Cearense** (Baby Vogue)
 - **Performance em Teatro José de Alencar**
