@@ -1,2 +1,63 @@
-# curriculo-arte-html
-Meu nome é Ada Roama. Este repositório é para meu portfólio artístico. Vou mostrar toda minha trajetória artística em HTML. My name is Ada Roama. This repository is for my artistic portfolio. I will show all my artistic trajectory in HTML.
+# 🎭 Portfólio Artístico de Ada Roama da Costa
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+**Explore o portfólio online:**  
+[https://girlfromfortaleza.github.io/PortfolioArte-HTML/](https://girlfromfortaleza.github.io/PortfolioArte-HTML/)
+
+## 🌟 Sobre o Projeto
+Portfólio digital multilinguagem desenvolvido para documentar 10+ anos de trajetória artística, incluindo:
+- Atuação em 15+ espetáculos teatrais
+- Participação em 10+ festivais de cinema
+- Performances em dança contemporânea e vogue
+- Desenvolvimento de projetos tecnocriativos
+
+## 🏆 Destaques
+### Principais Realizações
+- **Curta-metragem "Primos"** em 7 festivais nacionais
+- **Vencedora do Becha Cearense** (Baby Vogue)
+- **Performance em Teatro José de Alencar**
+- **Chatbot artístico para Android** (Pydroid3)
+
+### Tecnologias Utilizadas
+- Design responsivo com media queries
+- Gradientes e efeitos de transparência
+- Navegação fluida entre seções
+- Compatível com GitHub Pages
+
+## 🧭 Navegação
+```bash
+# Clonar repositório
+git clone https://github.com/girlfromfortaleza/PortfolioArte-HTML.git
+
+# Acessar via GitHub Pages
+https://girlfromfortaleza.github.io/PortfolioArte-HTML/
+```
+
+## 🖼️ Estrutura do Portfólio
+| Seção          | Conteúdo                                 |
+|----------------|------------------------------------------|
+| 🎬 Cinema      | Participações em festivais e curtas     |
+| 💃 Dança       | Performances de vogue e contemporânea   |
+| 🎭 Teatro      | Esquetes e espetáculos completos        |
+| 🤖 Tecnologia  | Projetos interativos e chatbots         |
+
+## 📜 Certificados
+- Teatro
+- Dança  
+- Música
+- Tecnologia
+- Bolsa Jovem (2ª e 3ª Edição)
+
+## 🤝 Contribuição
+Contribuições são bem-vindas! Para sugerir melhorias:
+1. Faça um fork do projeto
+2. Crie um branch com sua feature (`git checkout -b feature/improvement`)
+3. Envie um Pull Request
+
+## 📬 Contato
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/veil.and.brush/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/girlfromfortaleza)
+
