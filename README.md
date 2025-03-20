@@ -8,7 +8,6 @@ Portfólio digital multilinguagem desenvolvido para documentar 10+ anos de traje
 - Atuação em 15+ espetáculos teatrais
 - Participação em 10+ festivais de cinema
 - Performances em dança contemporânea e vogue
-- Desenvolvimento de projetos tecnocriativos
 
 ## 🏆 Destaques
 ### Principais Realizações
