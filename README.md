@@ -27,6 +27,7 @@ https://girlfromfortaleza.github.io/PortfolioArte-HTML/
 ## 🖼️ Estrutura do Portfólio
 | Seção          | Conteúdo                                 |
 |----------------|------------------------------------------|
+| 🎨 Desenho      | Criação e desenvolvimento sem uso de IA     |
 | 🎬 Cinema      | Participações em festivais e curtas     |
 | 💃 Dança       | Performances de vogue e contemporânea   |
 | 🎭 Teatro      | Esquetes e espetáculos completos        |
